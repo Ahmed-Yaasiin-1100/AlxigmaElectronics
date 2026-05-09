@@ -1,11 +1,12 @@
 import React from 'react'
-import Navbar from '../Navbar'
-import Hero from '../Hero'
-import Categories from '../Categories'
+import Navbar from '../components/Navbar'
+import Hero from '../components/Hero'
+import Categories from "../components/Categories"
 
 function Home() {
   return (
     <>
+
 
         <Navbar/>
         <Hero/>

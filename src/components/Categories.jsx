@@ -1,8 +1,8 @@
 import React from 'react'
-import cate1 from "./assets/cate1.jpg"
-import cate2 from "./assets/cate2.jpg"
-import cate3 from "./assets/cate3.jpg"
-import boxIphone17One from "./assets/iphone17boxing1.mp4"
+import cate1 from "../assets/cate1.jpg"
+import cate2 from "../assets/cate2.jpg"
+import cate3 from "../assets/cate3.jpg"
+import boxIphone17One from "/iphone17boxing1.mp4"
 
 function Categories() {
   return (

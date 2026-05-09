@@ -1,14 +1,14 @@
 import React from 'react'
 import "../index.css"
-import Navbar from '../Navbar'
+import Navbar from '../components/Navbar'
 import iphone17 from "../assets/iphone 17.jpg"
 import iphone16 from "../assets/iphone 16.jpg"
 import s26 from "../assets/s26.jpg"
 import iphone15 from "../assets/iphone 15.jpg"
 import iphone14 from "../assets/iphone 14pro.jpg"
 import iphone13 from "../assets/iphone 13.jpg"
-import boxIphone17 from "../assets/iphone17boxing.mp4"
-import boxIphone17One from "../assets/iphone17boxing1.mp4"
+import boxIphone17 from "/iphone17boxing.mp4"
+import boxIphone17One from "/iphone17boxing1.mp4"
 
 
 function Products() {
