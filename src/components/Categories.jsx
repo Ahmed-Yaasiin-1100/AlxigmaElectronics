@@ -2,7 +2,7 @@ import React from 'react'
 import cate1 from "../assets/cate1.jpg"
 import cate2 from "../assets/cate2.jpg"
 import cate3 from "../assets/cate3.jpg"
-import boxIphone17One from "/iphone17boxing1.mp4"
+
 
 function Categories() {
   return (
@@ -35,7 +35,8 @@ function Categories() {
                 <div className="allvideocate">
                     <div className="catevideos">
                   <video 
-                        src={boxIphone17One} 
+                       src="/iphone17boxing1.mp4" 
+
                         controls 
                         muted
                         autoPlay

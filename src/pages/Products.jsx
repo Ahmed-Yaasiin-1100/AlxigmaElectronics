@@ -7,8 +7,7 @@ import s26 from "../assets/s26.jpg"
 import iphone15 from "../assets/iphone 15.jpg"
 import iphone14 from "../assets/iphone 14pro.jpg"
 import iphone13 from "../assets/iphone 13.jpg"
-import boxIphone17 from "/iphone17boxing.mp4"
-import boxIphone17One from "/iphone17boxing1.mp4"
+
 
 
 function Products() {
@@ -74,7 +73,7 @@ function Products() {
             <div className="allvideo">
                 <div className="videos">
               <video 
-                    src={boxIphone17One} 
+                    src="/iphone17boxing1.mp4" 
                     controls 
                     muted
                     autoPlay
@@ -82,7 +81,7 @@ function Products() {
                 </div>
                  <div className="videos">
               <video 
-                    src={boxIphone17} 
+                    src="/iphone17boxing.mp4"
                     controls 
                     muted
                     autoPlay
